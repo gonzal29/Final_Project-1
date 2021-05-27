@@ -13,5 +13,5 @@ By birthday what the min and max user year and number / month ?
 how many user citibike / month?
 by using map shown start and end point for citibike / month?
 
-Abhusan Karki
+Abhusan Karki: Usage of citibikes throughout 4 seasons of the year 2019 and its future usage predictions.
 
