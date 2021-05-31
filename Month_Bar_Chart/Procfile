@@ -1,1 +1,1 @@
-web: gunicorn app:app
+$ echo "web: node app.js" > Procfile
