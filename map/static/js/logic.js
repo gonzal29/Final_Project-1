@@ -16,7 +16,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 
 // Store API query variables
 var baseURL = "https://feeds.citibikenyc.com/stations/stations.json";
-var date = "$where=lastCommunicationTime between'2016-01-22 04:00:00 PM' and '2016-01-22 05:32:49 PM'";
+var date = "$where=lastCommunicationTime between'2019-01-01 12:00:00 AM' and '2019-12-31 12:59:59 PM'";
 var complaint = "&complaint_type=Rodent";
 var limit = "&$limit=10000";
 
