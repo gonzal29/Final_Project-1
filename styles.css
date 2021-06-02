@@ -1,0 +1,96 @@
+h1 {
+    /* Put a 15-pixel margin at the bottom of the heading. */
+    margin-bottom: 25px;
+    /* Change the size of your font to 60 pixels high. */
+    font-size: 40px;
+    /* This will color the heading font white. */
+    color: white;
+    /* Align the text to the center of its enclosing element (e.g. div). */
+    text-align: left,center;
+    /* Underline the text. */
+    /* The background of the heading element will now be black. */
+    background-color: teal
+   }
+   h2{
+    /* Put a 15-pixel margin at the bottom of the heading. */
+    margin-bottom: 25px;
+    /* Change the size of your font to 60 pixels high. */
+    font-size: 30px;
+    /* This will color the heading font white. */
+    color: seagreen;
+    /* Align the text to the center of its enclosing element (e.g. div). */
+    text-align: left;
+    /* Underline the text. */
+    /* The background of the heading element will now be black. */
+    background-color: white
+   }
+   img {
+          float: left; 
+          margin: 5px;
+      }
+      /* p {
+          text-align: justify;
+          font-size: 25px;
+      } */
+    #images {list-style-type: none;}
+    li  {
+      display: inline-block;
+    }
+    .imageNav-header {
+margin-bottom: 15px;
+font-family: Georgia, Times, "Times New Roman", serif;
+font-size: 25px;
+font-weight: bold;
+color: #4AAAA5;
+}
+.imageNav-area {
+width: 100%;
+padding: 30px 30px 43px;
+margin-top: 32px;
+background-color: #fff;
+}
+.description-image {
+float: left;
+width: 200px;
+height: 200px;
+margin-top: 20px;
+margin-right: 20px;
+}
+.description-content > p {
+padding-top: 20px;
+font-size: 16px;
+line-height: 30px;
+color: slategray;
+}
+.topnav {
+overflow: hidden;
+background-color:green;
+}
+
+.topnav a {
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+
+.topnav a:hover {
+background-color: #ddd;
+color: white;
+}
+
+a.active {
+background-color: #4CAF50;
+color: white; 
+}
+
+a.logo.navbar-brand{
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
+.topnav-right {
+float: right;
+}
